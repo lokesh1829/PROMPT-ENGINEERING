@@ -61,3 +61,4 @@ Step 7: Finalize and Export
 
 
 # Result
+SUCCESSFULLY COMPARED CHATGPT AND GEMINI
