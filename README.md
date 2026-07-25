@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+https://docs.google.com/document/d/10lwaQBUryaPV6jBvMGqYtmj8juLnHpA1/edit?usp=drive_link&ouid=103536928766525830064&rtpof=true&sd=true
 
 
 # Result
